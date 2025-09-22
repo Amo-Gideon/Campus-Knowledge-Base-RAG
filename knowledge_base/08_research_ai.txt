@@ -1,0 +1,13 @@
+RESEARCH FOCUS: AI AND DATA SCIENCE LAB
+
+Director: Professor Kwame Adjekum
+
+The AI and Data Science Lab is a leading research center at AAMUSTED. Our current research projects are:
+
+1. Project Anansi: Developing low-resource NLP models for local Ghanaian languages (Twi, Fante, Ga).
+2. Project Sankofa: Using satellite imagery and machine learning for precision agriculture and crop disease detection.
+3. Project Nkrumah: An initiative to build a large-scale multilingual dataset for West African historical texts.
+
+The lab is equipped with a high-performance computing (HPC) cluster with 10 NVIDIA A100 GPUs. We collaborate with industry partners like Google AI and Meta AI.
+
+Graduate students and final-year undergraduates can apply for research assistantships.

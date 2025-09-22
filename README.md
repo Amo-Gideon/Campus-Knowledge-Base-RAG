@@ -1,5 +1,5 @@
-# Campus-Knowledge-Base-RAG
-A Retrieval-Augmented Generation (RAG) chatbot built with LangChain, Ollama, and CHROMA to answer questions from a custom university knowledge base. Features a simple Gradio interface for interactive Q&amp;A.
+# Campus Knowledge Base RAG Chatbot
+
 A prototype **Retrieval-Augmented Generation (RAG) chatbot** that answers questions about a university knowledge base.  
 Built using **LangChain**, **Ollama**, **ChromaDB**, and **Gradio**.
 

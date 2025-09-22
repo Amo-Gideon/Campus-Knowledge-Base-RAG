@@ -1,0 +1,19 @@
+FACULTIES AND DEPARTMENTS
+
+AAMUSTED is organized into three main faculties:
+
+1. Faculty of Computing and Engineering
+   - Department of Computer Science
+   - Department of Artificial Intelligence and Data Science
+   - Department of Electrical and Renewable Energy Engineering
+   - Department of Civil Engineering
+
+2. Faculty of Applied Sciences and Mathematics
+   - Department of Biotechnology
+   - Department of Environmental Science
+   - Department of Mathematics and Statistics
+
+3. Faculty of Education and Development Studies
+   - Department of Curriculum and Teaching Studies
+   - Department of Educational Leadership
+   - Department of Psychology and Human Development
